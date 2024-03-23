@@ -7,6 +7,7 @@ public class PalindromeArray {
         }
         return 1;
     }
+
     public static boolean isPalindrome(int n) {
         int original = n;
         int reversed = 0;
